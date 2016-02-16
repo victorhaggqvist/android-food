@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food Life</string>
+    <string name="selected_items">%d selected</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="selection_delete">Selection deleted</string>
+    <string name="selection_save">Selection saved</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="carbs" formatted="true">Carbs %.2fg</string>
+    <string name="fat">Fat %.2fg</string>
+    <string name="protein">Protein %.2fg</string>
+    <string name="calories">Calories %d</string>
+    <string name="no_such_food">No food found</string>
+    <string name="food_saved">Food saved</string>
+    <string name="food_droped">Food removed</string>
+    <string name="search">Search</string>
+</resources>
